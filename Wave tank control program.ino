@@ -1,4 +1,7 @@
-
+/* This program controls the operations of a wave tank built by Shubham Bhatt
+Please watch this playlist to better understand the workings of this project.
+https://www.youtube.com/playlist?list=PLkSF2UxGuLxDMq_FgcGfPj-JN3YCdFIvS
+*/
 String readString;
 #include <Stepper.h>
 const int stepsPerRevolution = 1000; 
